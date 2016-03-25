@@ -88,3 +88,7 @@ via Yusuke Kamiyamane
  
 <a href='http://copypastecharacter.com/' rel='nofollow'>Copy Paste Character</a>
    &mdash; Copying the &#8220;hidden&#8221; characters
+   
+<h3>Angular</h3>
+<a href='https://github.com/AngularClass'>AngularClass</a>
+&mdash; Great libs for AngularJS
